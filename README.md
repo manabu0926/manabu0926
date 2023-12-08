@@ -1,7 +1,15 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-sd4v.vercel.app/api?username=manabu0926&count_private=true&show_icons=true" />
-</a>
+# Backend Developer in Japan
+#
+![manabu0926's GitHub stats](https://github-readme-stats-sd4v.vercel.app/api?username=manabu0926&show_icons=true&theme=vue-dark&count_private=true")
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manabu0926" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manabu0926&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# My Skill (Programming Languages, Frameworks and Tools)
+## Backend
+<img src="https://skillicons.dev/icons?i=ruby,rails,rust,mysql,firebase,gcp,aws" /> <br /><br />
+## Frontend
+<img src="https://skillicons.dev/icons?i=react,next,typescript,flutter,html,css,js,jquery" /> <br /><br />
+## Tools
+<img src="https://skillicons.dev/icons?i=docker,vscode,github" /> <br /><br />
+
