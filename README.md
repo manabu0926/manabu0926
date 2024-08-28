@@ -7,9 +7,9 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 ## Backend
-<img src="https://skillicons.dev/icons?i=ruby,rails,rust,mysql,firebase,gcp,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=ruby,rails,rust,go,python,java,mysql,postgresql,firebase,gcp,aws" /> <br /><br />
 ## Frontend
-<img src="https://skillicons.dev/icons?i=react,next,typescript,flutter,html,css,js,jquery" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,typescript,flutter,html,css,js,ts,jquery,graphql" /> <br /><br />
 ## Tools
 <img src="https://skillicons.dev/icons?i=docker,vscode,github" /> <br /><br />
 
