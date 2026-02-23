@@ -1,7 +1,4 @@
 # Backend Developer in Japan
-#
-
-![github-readme-stats](https://github-readme-stats-rose-eight-81.vercel.app/api?username=manabu0926&show_icons=true&theme=vue-dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats-rose-eight-81.vercel.app/api/top-langs/?username=manabu0926&layout=compact&theme=vue-dark)
 
